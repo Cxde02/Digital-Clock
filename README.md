@@ -1,2 +1,2 @@
-# Snake-Game
-A simple snake game programmed using Python3
+# Digital Clock
+A simple digital clock programmed using Python3
